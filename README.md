@@ -1,3 +1,5 @@
+**Assignment 2**
+
 **TASK 1**
 This Python program first asks the user to enter an integer. It then uses the modulus operator % to check the remainder when the number is divided by 2. If the remainder is 0, the number is identified as even; otherwise, it is odd. Finally, the program displays a message telling the user whether the entered number is even or odd.
 
