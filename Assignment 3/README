@@ -1,1 +1,14 @@
+TASK 1
 
+Defines a function factorial(n) → calculates the factorial of a number n using recursion.
+Takes user input (a) → asks the user to enter a number.
+Prints the result → displays the factorial of the entered number.
+
+TASK 2
+
+Takes user input (a) → asks the user to enter a number.
+Imports the math module → to use mathematical functions.
+Calculates and prints:
+The square root of a → math.sqrt(a)
+The natural logarithm of a → math.log(a)
+The sine of a (in radians) → math.sin(a)
